@@ -1,1 +1,1 @@
-This is feature one. This is a fix.
+This is feature one. This is a fix. This is a feature fix.
